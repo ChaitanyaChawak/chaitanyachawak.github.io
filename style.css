@@ -253,6 +253,7 @@ margin-top: 0em;
 
 .misc_content p {
 margin-bottom: 0.2em;
+overflow-wrap: break-word;
 }
 
 .gallery {
