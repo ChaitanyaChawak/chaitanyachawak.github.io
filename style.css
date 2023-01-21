@@ -83,7 +83,7 @@ position: fixed;
 left: 0;
 right: 0;
 top: 0;
-height: 20vh;
+height: 20vw;
 display: flex;
 align-items: center;
 }
@@ -111,10 +111,11 @@ background: transparent;
 }
 
 header nav {
-margin-top: 4em;
-position: absolute;
+margin-top: 15vw;
+margin-bottom: 2vw;
+position: inherit ;
 font-size: 3vw;
-right: 5em;
+left: 5em;
 }   
 
 header li {
@@ -128,7 +129,7 @@ height: auto;
 width: auto;
 color: #bbbbbb;
 background-color: rgb(0, 10, 20);
-margin-top: 15vh;
+margin-top: 15vw;
 margin-left: 5%;
 margin-right: 5%;
 padding: 5%;
