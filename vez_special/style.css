@@ -1,0 +1,20 @@
+#snakeboard {
+  position: fixed;
+  top: 52%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+#score {
+  text-align: center;
+  font-size: 50px;
+}
+#counter {
+  text-align: center;
+  font-size: 60px;
+}
+#note {
+	position: absolute;
+	top: 880px;
+	left: 50%;
+	margin-left: -100px;
+}
