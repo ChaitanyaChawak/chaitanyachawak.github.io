@@ -65,6 +65,10 @@ overflow: auto;
 font-family: sans-serif;
 }
 
+body p {
+font-size: 15pt;
+}    
+
 }
 
 
@@ -129,12 +133,16 @@ height: auto;
 width: auto;
 color: #bbbbbb;
 background-color: rgb(0, 10, 20);
-margin-top: 15vw;
+margin-top: 18vw;
 margin-left: 5%;
 margin-right: 5%;
 padding: 5%;
 overflow: auto;
 font-family: sans-serif;
+}
+
+body p {
+font-size: 12pt;
 }
 
 }
@@ -143,7 +151,6 @@ font-family: sans-serif;
 
 body p {
 text-align: justify;
-font-size: 15pt;
 line-height: 170%;
 overflow-wrap: break-word;
 }
