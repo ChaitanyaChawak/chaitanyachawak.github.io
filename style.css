@@ -101,6 +101,26 @@ padding-left: 1.5em;
 margin-top: 0.5em;
 }
 
+
+.footer {
+position: absolute;
+bottom: auto;
+width: 85%;
+height: 40px;
+background-color: transparent;
+}
+
+.footer p {
+position: center;
+width: auto;
+color: #bbbbbb;
+opacity: 0.5;
+line-height: 40px;
+font-size: 9pt;
+text-align: center;
+}
+
+
 }
 
 
@@ -161,6 +181,7 @@ text-align: center;
 
 body
 {
+min-height: 100vh;
 height: auto;
 width: auto;
 color: #bbbbbb;
@@ -209,6 +230,26 @@ padding-left: 1.5em;
 margin-top: 0.5em;
 }
 
+
+.footer {
+position: absolute;
+bottom: auto;
+width: 85%;
+height: 30px;
+background-color: transparent;
+}
+
+.footer p {
+position: center;
+width: auto;
+color: #bbbbbb;
+opacity: 0.5;
+line-height: 40px;
+font-size: 8pt;
+text-align: center;
+bottom:0;
+}
+
 }
 
 
@@ -229,12 +270,6 @@ text-decoration: none;
 color: #ffffff;
 text-shadow: 0 0 0.2em #bbbbbb;
 }
-
-
-
-
-
-
 
 
 header a {
@@ -321,4 +356,16 @@ box-shadow: 0 0 0.5em #bbbbbb;
 figcaption {
 padding: 3px;
 text-align: center;
+}
+
+.intro {
+min-height: 67vh;
+}
+
+.contact {
+min-height: 67vh;
+}
+
+.acad {
+min-height: 67vh;
 }
