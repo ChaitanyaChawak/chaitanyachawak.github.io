@@ -1,0 +1,16 @@
+h1 {text-align: center;}
+p {text-align: center; font-size: larger;}
+
+.options {
+  margin-top: 5%;
+  text-align: center;
+}
+
+.options button {
+  width: 100px;
+  height: 100px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 50px;
+  border: 1px solid black;
+}
