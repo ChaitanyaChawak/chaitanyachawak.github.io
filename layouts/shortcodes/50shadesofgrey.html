@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  	<title>Shades of Grey</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="/css/50shadesofgrey.css">
+  </head>
+  
+  <body bgcolor='white'>
+    <div style="text-align: center;">
+      <canvas id="demoCanvas" width="700" height="200"></canvas>
+    </div>
+  
+    <h1>Shades of Grey</h1>
+    <p>This is a game to test if you can actually differentiate between 50 shades of grey. Hehe.</p>
+
+    
+    <div class="options">
+      <p>Select the option which doesn't match the others. Click a box to start.</p>
+      <button onclick="buttonColor(shades, this.id)" id="opt1"></button>
+      <button onclick="buttonColor(shades, this.id)" id="opt2"></button>
+      <button onclick="buttonColor(shades, this.id)" id="opt3"></button>
+      <button onclick="buttonColor(shades, this.id)" id="opt4"></button>
+      <button onclick="buttonColor(shades, this.id)" id="opt5"></button>
+    </div>
+
+    <p>Score: <a id="yesclicks">0</a> correct; <a id="noclicks">0</a> incorrect -> <a id="percentage">00</a> %</p>
+
+    <script src="/js/50shadesofgrey.js"></script>
+
+  </body>
+</html>
