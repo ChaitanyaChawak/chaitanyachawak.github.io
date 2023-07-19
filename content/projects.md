@@ -41,7 +41,7 @@ Made this pip installable package as a part of Code/Astro 2023. Details can be f
 
 ### Shades of Grey
 ![shades_of_grey](/shadesofgrey.png)
-A game to see if you can actually differentiate between 50 uniformly sampled shades of grey. Click [here](https://chaitanyachawak.github.io/projects/50shadesofgrey/) to play !
+A game to see if you can actually differentiate between 50 uniformly sampled shades of grey. Click [here](/posts/50shadesofgrey/) to play !
 
 ### Vez Game
 ![vez_game](/vez_game.png)

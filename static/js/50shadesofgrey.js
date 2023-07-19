@@ -2,11 +2,11 @@ var canvas = document.getElementById("demoCanvas");
 if (canvas.getContext)   
 {  
 var ctx = canvas.getContext("2d");         
-var gradient = ctx.createLinearGradient(0, 0, 1700, 0);
+var gradient = ctx.createLinearGradient(0, 0, 800, 0);
 gradient.addColorStop(0, 'black');
 gradient.addColorStop(1, 'white');
 ctx.fillStyle = gradient;
-ctx.fillRect(0, 0, 1800, 1800);             
+ctx.fillRect(0, 0, 800, 800);             
 }
 
 const butt1 = document.getElementById("opt1");
