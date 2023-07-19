@@ -45,4 +45,4 @@ A game to see if you can actually differentiate between 50 uniformly sampled sha
 
 ### Vez Game
 ![vez_game](/vez_game.png)
-Created this as a birthday gift for a dear friend. Can be played [here](https://chaitanyachawak.github.io/vez_special/). (not playable on mobile, yet)
+Created this as a birthday gift for a dear friend. Can be played [here](/posts/vez_game/). (unplayable at the moment :/ working on a fix)

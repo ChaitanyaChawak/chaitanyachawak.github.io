@@ -38,13 +38,17 @@ In my free time, I like to listen to music, solve puzzles, and sleep."
     - name: Twitter
       url: "https://twitter.com/chaitanyachawak"
     - name: Discord
-      url: "Chai#8995"
+      url: "https://discordapp.com/users/Chai#8995"
     - name: email
-      url: "chaitanyachawak@students.iisertirupati.ac.in"
+      url: "mailto:chaitanyachawak@students.iisertirupati.ac.in"
 
 
 menu:
   main:
+    - identifier: home
+      name: Home
+      url: ""
+      weight: 1
     - identifier: academics
       name: Academics
       url: /academics/

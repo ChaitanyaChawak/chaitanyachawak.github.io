@@ -1,4 +1,4 @@
 ---
 tags: ["fun"]
 --- 
-{{<50shadesofgrey>}}
+{{<vez_game>}}
