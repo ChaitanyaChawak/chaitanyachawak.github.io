@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>coursework on Chaitanya Chawak</title>
+    <link>/tags/coursework/</link>
+    <description>Recent content in coursework on Chaitanya Chawak</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/tags/coursework/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Academics</title>
+      <link>/academics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/academics/</guid>
+      <description>academics</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/</guid>
+      <description>projects</description>
+    </item>
+    
+  </channel>
+</rss>

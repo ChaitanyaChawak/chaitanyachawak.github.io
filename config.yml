@@ -1,0 +1,67 @@
+baseURL: ""
+languageCode: en-us
+title: Chaitanya Chawak
+paginate: 5
+theme: PaperMod
+
+
+params:
+  #homeInfoParams:
+  #  Title: "Hello there !"
+  #  Content: This is my new website
+  
+  ShowBreadCrumbs: false
+
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: /teacup_nobg.png
+    #favicon16x16: /teacup_nobg.png
+    #favicon32x32: /teacup_nobg.png
+
+  # profile-mode
+  profileMode:
+    enabled: true # needs to be explicitly set
+    title: Chaitanya Chawak
+    subtitle: "Hello there. Welcome to my [digital garden](https://joelhooks.com/digital-garden) !"
+    extrainfo: "I am Chaitanya Chawak, a student in Computational Astrophysics. Specifically, I use Machine Learning techniques to extract Cosmological and Astrophysical information from the properties of a handful of galaxies. I am currently learning about cool methods like Self Organising Maps and their application.
+In my free time, I like to listen to music, solve puzzles, and sleep."
+    extraextrainfo: "I'm usually up for fun discussions anytime, so feel free to contact me via any of my socials !"
+    imageUrl: me.jpeg
+    imageWidth: 200
+    imageHeight: 200
+    imageTitle: its a me !
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/adityatelange/hugo-PaperMod"
+    - name: Twitter
+      url: "https://ko-fi.com/adityatelange"
+    - name: Discord
+      url: ""
+    - name: email
+      url: "index.xml"
+
+
+menu:
+  main:
+    - identifier: academics
+      name: Academics
+      url: /academics/
+      weight: 5
+    #- identifier: archives
+    #  name: Archives
+    #  url: /archives/
+    #  weight: 15
+    - identifier: projects
+      name: Projects
+      url: /projects/
+      weight: 10
+    - identifier: misc
+      name: Misc
+      url: /misc/
+      weight: 20
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 25

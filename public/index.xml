@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Chaitanya Chawak</title>
+    <link>/</link>
+    <description>Recent content on Chaitanya Chawak</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My 1st post</title>
+      <link>/posts/first/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>/posts/first/</guid>
+      <description>This is my first post.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/posts/courses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/courses/</guid>
+      <description>Course list   Semester 1
+ Introductory Biology I: Basic Principles Biology Lab I: Basic Biology General Chemistry Mathematical Methods in Physics Introduction to Discrete Mathematics World of Physics I: Mechanics    Semseter 2
+ Introductory Biology II: Genetics and Molecular Biology Biology Lab II: Biochemistry and Molecular Biology Physical Chemistry Chemistry Lab I Critical Reading, Writing and Communication Single Variable Calculus Linear Algebra and Applications Waves and Optics Physics Lab I    Semester 3</description>
+    </item>
+    
+    <item>
+      <title>Academics</title>
+      <link>/academics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/academics/</guid>
+      <description>academics</description>
+    </item>
+    
+    
+    <item>
+      <title>Misc</title>
+      <link>/misc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/misc/</guid>
+      <description>misc</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/</guid>
+      <description>projects</description>
+    </item>
+    
+  </channel>
+</rss>
