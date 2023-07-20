@@ -1,3 +1,6 @@
+---
+tags: ["coursework"]
+---
 ## Course list
 
 - Semester 1
