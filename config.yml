@@ -25,7 +25,7 @@ params:
     title: Chaitanya Chawak
     subtitle: "Hello there. Welcome to my [digital garden](https://joelhooks.com/digital-garden) !"
     extrainfo: "I am Chaitanya Chawak, a student in Computational Astrophysics. Specifically, I use Machine Learning techniques to extract Cosmological and Astrophysical information from the properties of a handful of galaxies. I am currently learning about cool methods like Self Organising Maps and their application.
-In my free time, I like to listen to music, solve puzzles, and sleep."
+In my free time, I like to listen to music, solve puzzles, and [sleep](/calvin-sleeping-through-bedtime.jpg)."
     extraextrainfo: "I'm usually up for fun discussions anytime, so feel free to contact me via any of my socials !"
     imageUrl: me.jpeg
     imageWidth: 200
@@ -53,14 +53,18 @@ menu:
       name: Academics
       url: /academics/
       weight: 5
-    #- identifier: archives
-    #  name: Archives
-    #  url: /archives/
-    #  weight: 15
     - identifier: projects
       name: Projects
       url: /projects/
       weight: 10
+    #- identifier: archives
+    #  name: Archives
+    #  url: /archives/
+    #  weight: 15
+    #- identifier: mylogs
+    #  name: My Logs
+    #  url: /mylogs/
+    #  weight: 15
     - identifier: misc
       name: Misc
       url: /misc/
