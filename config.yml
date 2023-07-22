@@ -61,15 +61,16 @@ menu:
     #  name: Archives
     #  url: /archives/
     #  weight: 15
-    #- identifier: mylogs
-    #  name: My Logs
-    #  url: /mylogs/
-    #  weight: 15
+    - identifier: mylogs
+      name: My Logs
+      url: /mylogs/
+      weight: 15
     - identifier: misc
       name: Misc
       url: /misc/
       weight: 20
-    - identifier: tags
-      name: Tags
-      url: /tags/
-      weight: 25
+    #- identifier: tags
+    #  name: Tags
+    #  url: /tags/
+    #  weight: 25
+
