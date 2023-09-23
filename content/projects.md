@@ -7,7 +7,7 @@ tags: ["academics", "coursework", "fun"]
 
 ### Masters Project
 ![Cosmo1gal](/cosmo1gal.png)
-I am currently working with Dr. Francisco Villaescusa-Navarro to extract Cosmological and Astrophysical information from the internal properties of a handful of galaxies using Machine Learning techniques. I am learning about new methods like GNNs, and SOMs and how these can be applied in Astrophysics.
+Worked with Dr. Francisco Villaescusa-Navarro to extract Cosmological and Astrophysical information from the internal properties of a handful of galaxies using Machine Learning techniques. I am learning about new methods like GNNs, and SOMs and how these can be applied in Astrophysics.
 
 ### Galaxy Profiling
 ![NGC3614_MOM2](/NGC3614_MOM2.JPG)
