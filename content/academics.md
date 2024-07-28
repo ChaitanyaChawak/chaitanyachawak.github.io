@@ -13,6 +13,6 @@ For my final year, I worked on my Masters thesis in the field of Computational A
 
 # Publications
 
-- **Chawak, Chaitanya**, Francisco Villaescusa-Navarro, Nicolas Echeverri Rojas, Yueying Ni, ChangHoon Hahn, and Daniel Angles-Alcazar. “Cosmology with Multiple Galaxies.” arXiv, September 21, 2023. https://doi.org/10.48550/arXiv.2309.12048.
+- **Chawak, Chaitanya**, Francisco Villaescusa-Navarro, Nicolas Echeverri Rojas, Yueying Ni, ChangHoon Hahn, and Daniel Angles-Alcazar. “Cosmology with Multiple Galaxies.” arXiv, September 21, 2023. https://doi.org/10.3847/1538-4357/ad4969.
 
 - Echeverri-Rojas, Nicolas, Francisco Villaescusa-Navarro, **Chaitanya Chawak**, Yueying Ni, ChangHoon Hahn, Elena Hernández-Martínez, Romain Teyssier, Daniel Anglés-Alcázar, Klaus Dolag, and Tiago Castro. “Cosmology with One Galaxy? The ASTRID Model and Robustness.” The Astrophysical Journal 954, no. 2 (September 1, 2023): 125. https://doi.org/10.3847/1538-4357/ace96e.
