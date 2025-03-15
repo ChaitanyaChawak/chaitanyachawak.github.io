@@ -1,7 +1,10 @@
 baseURL: ""
 languageCode: en-us
 title: Chaitanya Chawak
-paginate: 5
+pagination:
+  disableAliases: true
+  pagerSize: 2
+  path: page
 theme: PaperMod
 
 
@@ -23,9 +26,8 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Chaitanya Chawak
-    subtitle: "Hello there. Welcome to my [digital garden](https://joelhooks.com/digital-garden) !"
-    extrainfo: "I am Chaitanya Chawak, a student in Computational Astrophysics. Specifically, I use Machine Learning techniques to extract Cosmological and Astrophysical information from the properties of a handful of galaxies. I am currently learning about cool methods like Self Organising Maps and their application.
-In my free time, I like to listen to music, solve puzzles, and [sleep](/calvin-sleeping-through-bedtime.jpg)."
+    subtitle: "Hello there."
+    extrainfo: "I am Chaitanya Chawak, a Research Engineer in the [Cosmostat lab](https://www.cosmostat.org/) at [CEA Paris-Saclay](https://www.cea.fr/). My interests include (but are not limited to) Machine Learning, Astrophysics, software development and learning cool new stuff. In my free time, I like to listen to music, solve puzzles, and [sleep](/calvin-sleeping-through-bedtime.jpg)."
     extraextrainfo: "I'm usually up for fun discussions anytime, so feel free to contact me via any of my socials !"
     imageUrl: me.jpeg
     imageWidth: 200
@@ -40,7 +42,7 @@ In my free time, I like to listen to music, solve puzzles, and [sleep](/calvin-s
     - name: Discord
       url: "https://discordapp.com/users/Chai#8995"
     - name: email
-      url: "mailto:chaitanyachawak@students.iisertirupati.ac.in"
+      url: "mailto:chaitanya.chawak@cea.fr"
 
 
 menu:
