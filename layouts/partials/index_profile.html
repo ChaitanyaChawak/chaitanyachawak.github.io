@@ -34,7 +34,7 @@
         <span>{{ .subtitle | markdownify }}</span><br><br>
         <span>{{ .extrainfo | markdownify }}</span><br><br>
         <span>{{ .extraextrainfo | markdownify }}</span><br><br>
-        {{- partial "social_icons.html" site.Params.socialIcons -}}
+        {{- partial "social_icons.html" .site.Params.socialIcons -}}
 
         {{- with .buttons }}
         <div class="buttons">

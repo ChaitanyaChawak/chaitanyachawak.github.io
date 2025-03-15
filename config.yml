@@ -5,7 +5,7 @@ pagination:
   disableAliases: true
   pagerSize: 2
   path: page
-theme: ["PaperMod"]
+theme: PaperMod
 
 
 params:
