@@ -30,10 +30,10 @@
             height="{{ .imageHeight | default 150 }}" width="{{ .imageWidth | default 150 }}" />
         {{- end }}
         {{- end }}
-        <!-- <h1>{{ .title | default site.Title | markdownify }}</h1> --> <br><br>
-        <span>{{ .subtitle | markdownify }}</span><br><br>
-        <span>{{ .extrainfo | markdownify }}</span><br><br>
-        <span>{{ .extraextrainfo | markdownify }}</span><br><br>
+        <!-- <h1>{{ .title | default site.Title | markdownify }}</h1> --> <br>
+        <span>{{ .subtitle | markdownify }}</span><br>
+        <span>{{ .extrainfo | markdownify }}</span><br>
+        <span>{{ .extraextrainfo | markdownify }}</span><br>
         {{- partial "social_icons.html" .site.Params.socialIcons -}}
 
         {{- with .buttons }}
